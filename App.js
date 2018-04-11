@@ -35,6 +35,9 @@ export default class App extends React.Component {
         <Text style={styles.instructions}>
           {instructions}
         </Text>
+ <Text style={styles.instructions}>
+          {instructions}
+        </Text>
         <TextInput placeholder="Enter your name">
         </TextInput>
       </View>
